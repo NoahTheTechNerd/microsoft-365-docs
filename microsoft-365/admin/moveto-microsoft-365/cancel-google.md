@@ -37,7 +37,9 @@ Check out all of our small business content on [Small business help & learning](
 
     > [!IMPORTANT]
     > your subscription will be cancelled immediately and you cannot undo this action.
+    > [!IMPORTANT]
+    > If you change your mind, you will need to contact Google to restore your licenses. 
 
     :::image type="content" source="../../media/cancelgoogleworspace.png" alt-text="Screen shot of the Google Admin Billing page.":::
 
-Note that you might not see Domain Registration in your Subscriptions list if your DNS host provider isn't Google domains.
+Note: if you have previously removed your domain from your Google Workspace account, it will not show up on your domains list, **if you own a Google Domains Domain Name you will also need to manually cancel your domain name (if you are not bringing it to Microsoft) by going to [Google Domains](https://domains.google.com/)**
